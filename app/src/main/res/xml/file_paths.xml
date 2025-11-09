@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path
+        name="cartoons"
+        path="cartoons/"/>
+    <cache-path
+        name="cached_cartoons"
+        path="cartoons/"/>
+    <external-files-path
+        name="external_cartoons"
+        path="cartoons/"/>
+</paths>
